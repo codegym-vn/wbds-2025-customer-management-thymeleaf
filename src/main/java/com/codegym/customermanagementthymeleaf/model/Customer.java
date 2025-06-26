@@ -1,4 +1,4 @@
-package com.codegym.customermanagementthymleaf.model;
+package com.codegym.customermanagementthymeleaf.model;
 
 public class Customer {
     private int id;

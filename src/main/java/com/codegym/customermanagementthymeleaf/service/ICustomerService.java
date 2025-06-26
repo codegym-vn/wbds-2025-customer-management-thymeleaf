@@ -1,6 +1,6 @@
-package com.codegym.customermanagementthymleaf.service;
+package com.codegym.customermanagementthymeleaf.service;
 
-import com.codegym.customermanagementthymleaf.model.Customer;
+import com.codegym.customermanagementthymeleaf.model.Customer;
 
 import java.util.List;
 

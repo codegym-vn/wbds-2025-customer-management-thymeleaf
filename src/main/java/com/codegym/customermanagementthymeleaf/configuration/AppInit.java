@@ -1,4 +1,4 @@
-package com.codegym.customermanagementthymleaf.configuration;
+package com.codegym.customermanagementthymeleaf.configuration;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 public class AppInit extends AbstractAnnotationConfigDispatcherServletInitializer {

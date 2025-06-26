@@ -1,8 +1,8 @@
-package com.codegym.customermanagementthymleaf.controller;
+package com.codegym.customermanagementthymeleaf.controller;
 
-import com.codegym.customermanagementthymleaf.model.Customer;
-import com.codegym.customermanagementthymleaf.service.CustomerService;
-import com.codegym.customermanagementthymleaf.service.ICustomerService;
+import com.codegym.customermanagementthymeleaf.model.Customer;
+import com.codegym.customermanagementthymeleaf.service.CustomerService;
+import com.codegym.customermanagementthymeleaf.service.ICustomerService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

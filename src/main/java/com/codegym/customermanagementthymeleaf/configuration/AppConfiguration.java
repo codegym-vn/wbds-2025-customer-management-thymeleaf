@@ -1,4 +1,4 @@
-package com.codegym.customermanagementthymleaf.configuration;
+package com.codegym.customermanagementthymeleaf.configuration;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
@@ -15,7 +15,7 @@ import org.thymeleaf.templatemode.TemplateMode;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "com.codegym.customermanagementthymleaf")
+@ComponentScan(basePackages = "com.codegym.customermanagementthymeleaf")
 public class AppConfiguration implements WebMvcConfigurer, ApplicationContextAware {
     private ApplicationContext applicationContext;
 
